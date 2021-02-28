@@ -1,10 +1,10 @@
 
 
-int IN4 = 2;			// IN1 a pin digital 2
-int IN3 = 3;			// IN2 a pin digital 3
-int ENB = 5;			// ENA a pin digital 5
-int IN2 = 7;			// IN3 a pin digital 7
-int IN1 = 8;			// IN4 a pin digital 8
+int IN4 = 2;			// IN4 a pin digital 2
+int IN3 = 3;			// IN3 a pin digital 3
+int ENB = 5;			// ENB a pin digital 5
+int IN2 = 7;			// IN2 a pin digital 7
+int IN1 = 8;			// IN1 a pin digital 8
 int ENA = 9;			// ENA a pin digital 9
 
 void setup(){
